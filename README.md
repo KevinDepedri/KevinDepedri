@@ -1,5 +1,5 @@
 # <p align="center"> Hi, I'm Kevin Depedri 👋
-### I have a bachelor degree in Information and Communication engineering 📡
+### I have a bachelor degree in Information and Communications engineering 📡
 ### I am interested in Artifical Intelligence and I am attending a master on it at UniTn 🤖
 ### You can reach me at my Linkedin [here](https://www.linkedin.com/in/kevin-depedri-b35463259) 📫
 
