@@ -1,7 +1,9 @@
 # <p align="center"> Hi, I'm Kevin Depedri 👋
 ### I have a bachelor degree in Information and Communications engineering 📡
-### I am interested in Artifical Intelligence and I am attending a master on it at UniTn 🤖
-### You can reach me at my Linkedin [here](https://www.linkedin.com/in/kevin-depedri-b35463259) 📫
+### I'm interested in Artifical Intelligence and I'm specializing in Computer Vision and Augmented Reality 👁️‍🗨️ 👓
+### I'm attending a master in Artificial Intelligence Systems at UniTn 📚
+### Here you can find some of the projects on which I have worked in the last years 💻
+### You can reach me on Linkedin [here](https://www.linkedin.com/in/kevin-depedri-b35463259) 📫
 
 <!--
 **KevinDepedri/KevinDepedri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
