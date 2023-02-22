@@ -1,6 +1,6 @@
 # <p align="center"> Hi, I'm Kevin Depedri 👋
 ### I have a bachelor degree in Information and Communications engineering 📡
-### I'm interested in Artifical Intelligence and I'm specializing in Computer Vision and Augmented Reality 👁️‍🗨️ 👓
+### I'm interested in Artifical Intelligence and I'm specializing in Computer Vision and Augmented Reality 👓
 ### I'm attending a master in Artificial Intelligence Systems at UniTn 📚
 ### Here you can find some of the projects on which I have worked in the last years 💻
 ### You can reach me on Linkedin [here](https://www.linkedin.com/in/kevin-depedri-b35463259) 📫
