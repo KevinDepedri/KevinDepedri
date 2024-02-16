@@ -1,5 +1,5 @@
 # <p align="center"> Hi, I'm Kevin Depedri 👋
-### I am a passionate engineer, currently contributing my expertise in the AI/ML field.
+### I am a passionate engineer, working in the AI/ML field.
 ### I am a graduate from the University of Trento 🎓
 #### There I earned a Bachelor's degree in Information and Communications engineering 📡
 #### and a Master's degree in Artificial Intelligence Systems 🤖 
